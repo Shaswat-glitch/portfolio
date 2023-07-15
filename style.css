@@ -213,6 +213,7 @@ body{
   .form-group label {
     display: block;
     font-weight: bold;
+    color:red;
   }
 
   .form-group input,
